@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d4WRwHxEA07hZKn0qSuOoNnIGiqQSoyo4H9/YewfOD0=",
+  "Source": "PokDex backend",
+  "BasePath": "_content/PokDex backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

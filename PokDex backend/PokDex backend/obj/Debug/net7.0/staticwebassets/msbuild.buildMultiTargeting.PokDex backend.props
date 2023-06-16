@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PokDex backend.props" />
+</Project>

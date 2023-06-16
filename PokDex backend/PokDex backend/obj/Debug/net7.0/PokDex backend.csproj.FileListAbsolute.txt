@@ -1,0 +1,33 @@
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\appsettings.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\PokDex backend.exe
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\PokDex backend.deps.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\PokDex backend.runtimeconfig.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\PokDex backend.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\PokDex backend.pdb
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.csproj.AssemblyReference.cache
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.AssemblyInfoInputs.cache
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.AssemblyInfo.cs
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.csproj.CoreCompileInputs.cache
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets\msbuild.PokDex backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets\msbuild.build.PokDex backend.props
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PokDex backend.props
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PokDex backend.props
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\scopedcss\bundle\PokDex backend.styles.css
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.csproj.CopyComplete
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\refint\PokDex backend.dll
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.pdb
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\PokDex backend.genruntimeconfig.cache
+C:\Users\Robin\Programmering\SALT-PGP\PokDex\backend\PokDex backend\PokDex backend\obj\Debug\net7.0\ref\PokDex backend.dll
